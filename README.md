@@ -6,7 +6,7 @@
 
 Atividade de Web I.
 
-O objetivo dessa atividade foi criar um site utilizando elementos de HTML, como textos, imagens, vídeo do YouTube
+Para essa atividade, eu criei um site utilizando elementos de HTML, como textos, imagens, vídeo do YouTube
 e links externos.
 
 O site foi desenvolvido com o tema de artes e jogos, contendo
